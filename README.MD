@@ -17,6 +17,5 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie cinco varições de título para um ebook sobre Figma onde o publico alvo são ux designers iniciantes, o título deve ser curto e impactante.                     
-| conteúdo | Faça um texto para ebook, com foco em Figma para UX/UI Designer iniciantes, listando as principais funcionalidades da ferramenta com exemplos de aplicação prática.
-Regras: Explique sempre de maneira simples, deixe o texto enxuto, sempre traga exemplos em contextos reais, sempre crie um nome sugestivo por tópico.
+|  Título  | Crie cinco varições de título para um ebook sobre Figma onde o publico alvo são ux designers iniciantes, o título deve ser curto e impactante.                     
+| Conteúdo | Faça um texto para ebook, com foco em Figma para UX/UI Designer iniciantes, listando as principais funcionalidades da ferramenta com exemplos de aplicação prática. Segundo as seguintes regras: Explique sempre de maneira simples, deixe o texto enxuto, sempre traga exemplos em contextos reais, sempre crie um nome sugestivo por tópico.
